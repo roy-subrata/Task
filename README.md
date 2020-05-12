@@ -11,23 +11,23 @@ https://localhost:5001/FeedBack/index
 get
 https://localhost:5001/api/post #
 post
-https://localhost:5001/api/post
+https://localhost:5001/api/post #
 put
-https://localhost:5001/api/post?id=
+https://localhost:5001/api/post?id=   #
 delete
-https://localhost:5001/api/post?id=
+https://localhost:5001/api/post?id=  #
 
 
 *****-------------for comment api-------------******
 
 get
-https://localhost:5001/api/comment
+https://localhost:5001/api/comment #
 post
-https://localhost:5001/api/comment
+https://localhost:5001/api/comment #
 put
-https://localhost:5001/api/comment?id=
+https://localhost:5001/api/comment?id=  #
 delete
-https://localhost:5001/api/comment?id=
+https://localhost:5001/api/comment?id= #
 
 
 
