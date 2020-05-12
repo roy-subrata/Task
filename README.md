@@ -9,7 +9,7 @@ https://localhost:5001/FeedBack/index
 
 *****-------------for post api-------------******
 get
-https://localhost:5001/api/post
+https://localhost:5001/api/post #
 post
 https://localhost:5001/api/post
 put
